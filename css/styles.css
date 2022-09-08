@@ -1,11 +1,11 @@
 :root {
   --color-body: #1a2238;
-  --color-secondary: #17225d;
-  --color-accent: #ff6a3d;
+  --color-secondary: #66f015;
+  --color-accent: #97f120;
   --color-pale-yellow: #f4db7b;
   --color-text: #dbdeeb;
-  --color-gradient-one: #3d4a91;
-  --color-gradient-two: #0b0b24;
+  --color-gradient-one: #fd0b0b;
+  --color-gradient-two: #66f015;
 }
 * {
   margin: 0;
